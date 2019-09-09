@@ -28,7 +28,6 @@ function App() {
 				render={() => (
 					<Products
 						products={products}
-						addItem={addItem}
 					/>
 				)}
 			/>
